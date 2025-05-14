@@ -1,0 +1,185 @@
+[
+  {
+    "country": "Bhutan",
+    "visaTypes": [
+      {
+        "type": "Visa-Free Entry",
+        "processingTime": "No processing needed",
+        "stayValidity": "Unlimited for Indians",
+        "visaValidity": "N/A",
+        "visaFees": "Free",
+        "documentsRequired": [
+          "Valid Indian Passport or Voter ID",
+          "Entry Permit from Immigration on arrival"
+        ],
+        "applyProcess": "Entry permit issued at border/airport upon arrival for free."
+      }
+    ]
+  },
+  {
+    "country": "Nepal",
+    "visaTypes": [
+      {
+        "type": "Visa-Free Entry",
+        "processingTime": "No processing required",
+        "stayValidity": "Unlimited for Indians",
+        "visaValidity": "N/A",
+        "visaFees": "Free",
+        "documentsRequired": [
+          "Valid Indian Passport or Voter ID (mandatory if flying)",
+          "Proof of Indian Citizenship"
+        ],
+        "applyProcess": "Direct entry via land/air; no visa required."
+      }
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "visaTypes": [
+      {
+        "type": "Visa-Free Entry",
+        "processingTime": "Instant on arrival",
+        "stayValidity": "30 Days (Non-extendable)",
+        "visaValidity": "30 Days",
+        "visaFees": "Free",
+        "documentsRequired": [
+          "Valid Passport (6 months min validity)",
+          "Return flight ticket",
+          "Hotel booking or sponsor info"
+        ],
+        "applyProcess": "Visa-free stamp given at immigration counter."
+      }
+    ]
+  },
+  {
+    "country": "Thailand",
+    "visaTypes": [
+      {
+        "type": "Visa-Free Entry (Trial for Indians)",
+        "processingTime": "On Arrival",
+        "stayValidity": "30 Days",
+        "visaValidity": "30 Days",
+        "visaFees": "Free (until Nov 2024)",
+        "documentsRequired": [
+          "Valid Passport (6+ months)",
+          "Return Ticket",
+          "Proof of Accommodation",
+          "Proof of Funds (₹40,000+)"
+        ],
+        "applyProcess": "Direct arrival stamp at immigration."
+      }
+    ]
+  },
+  {
+    "country": "Maldives",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival (Free)",
+        "processingTime": "On Arrival",
+        "stayValidity": "30 Days",
+        "visaValidity": "30 Days",
+        "visaFees": "Free",
+        "documentsRequired": [
+          "Valid Passport",
+          "Hotel booking",
+          "Return Ticket",
+          "Sufficient Funds"
+        ],
+        "applyProcess": "Free visa issued at Male Airport on arrival."
+      }
+    ]
+  },
+  {
+    "country": "Mauritius",
+    "visaTypes": [
+      {
+        "type": "Visa-Free Entry",
+        "processingTime": "On Arrival",
+        "stayValidity": "60 Days",
+        "visaValidity": "60 Days",
+        "visaFees": "Free",
+        "documentsRequired": [
+          "Valid Passport",
+          "Confirmed Return Ticket",
+          "Proof of Accommodation",
+          "Funds (~USD 100 per day)"
+        ],
+        "applyProcess": "Visa-free stamp provided at airport."
+      }
+    ]
+  },
+  {
+    "country": "Seychelles",
+    "visaTypes": [
+      {
+        "type": "Visitor's Permit on Arrival",
+        "processingTime": "On Arrival",
+        "stayValidity": "30 Days (extendable to 3 months)",
+        "visaValidity": "Initial 30 Days",
+        "visaFees": "Free for first month",
+        "documentsRequired": [
+          "Valid Passport",
+          "Hotel Booking",
+          "Return Ticket",
+          "Sufficient Funds (~USD 150/day)"
+        ],
+        "applyProcess": "Visitor's permit issued free at entry point."
+      }
+    ]
+  },
+  {
+    "country": "Jamaica",
+    "visaTypes": [
+      {
+        "type": "Visa-Free Entry",
+        "processingTime": "No Visa Required",
+        "stayValidity": "90 Days",
+        "visaValidity": "Single Entry",
+        "visaFees": "Free",
+        "documentsRequired": [
+          "Valid Passport",
+          "Return Ticket",
+          "Proof of Accommodation"
+        ],
+        "applyProcess": "Entry granted at immigration without visa."
+      }
+    ]
+  },
+  {
+    "country": "Qatar",
+    "visaTypes": [
+      {
+        "type": "Visa-Free Entry",
+        "processingTime": "On Arrival",
+        "stayValidity": "30 Days (extendable)",
+        "visaValidity": "30 Days",
+        "visaFees": "Free",
+        "documentsRequired": [
+          "Valid Passport (6 months)",
+          "Hotel Booking (via Discover Qatar)",
+          "Return Ticket",
+          "Sufficient Funds or Credit Card"
+        ],
+        "applyProcess": "Visa-free entry stamped at Doha Airport."
+      }
+    ]
+  },
+  {
+    "country": "Barbados",
+    "visaTypes": [
+      {
+        "type": "Visa-Free Entry",
+        "processingTime": "No Visa Required",
+        "stayValidity": "90 Days",
+        "visaValidity": "90 Days",
+        "visaFees": "Free",
+        "documentsRequired": [
+          "Valid Passport",
+          "Return Ticket",
+          "Proof of Accommodation"
+        ],
+        "applyProcess": "Entry allowed without visa; immigration approval required."
+      }
+    ]
+  }
+]
