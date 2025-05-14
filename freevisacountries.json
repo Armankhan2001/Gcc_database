@@ -4,14 +4,15 @@
     "visaTypes": [
       {
         "type": "Visa-Free",
-        "visaValidity": "Unlimited",
-        "stayValidity": "No limit",
-        "processingTime": "None",
-        "visaFees": "Free",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
         "documentsRequired": [
-          "Valid Indian Passport or Voter ID card",
-          "Entry Permit from immigration office",
-          "Passport-size photo"
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
         ]
       }
     ]
@@ -21,12 +22,15 @@
     "visaTypes": [
       {
         "type": "Visa-Free",
-        "visaValidity": "Unlimited",
-        "stayValidity": "No limit",
-        "processingTime": "None",
-        "visaFees": "Free",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
         "documentsRequired": [
-          "Valid Indian Passport or Voter ID card"
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
         ]
       }
     ]
@@ -36,14 +40,15 @@
     "visaTypes": [
       {
         "type": "Visa-Free",
-        "visaValidity": "30 days",
-        "stayValidity": "30 days",
-        "processingTime": "On arrival",
-        "visaFees": "Free",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
         "documentsRequired": [
           "Valid Indian Passport",
-          "Return ticket",
-          "Sufficient funds"
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
         ]
       }
     ]
@@ -52,16 +57,16 @@
     "country": "Thailand",
     "visaTypes": [
       {
-        "type": "Visa-Free (Promo)",
-        "visaValidity": "Until 11 May 2025",
-        "stayValidity": "30 days",
-        "processingTime": "On arrival",
-        "visaFees": "Free (under promo)",
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
         "documentsRequired": [
-          "Passport with 6 months validity",
-          "Return/onward ticket",
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
           "Proof of accommodation",
-          "Funds proof"
+          "Sufficient financial means"
         ]
       }
     ]
@@ -70,16 +75,16 @@
     "country": "Maldives",
     "visaTypes": [
       {
-        "type": "Visa-Free",
-        "visaValidity": "30 days",
-        "stayValidity": "30 days",
-        "processingTime": "On arrival",
-        "visaFees": "Free",
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
         "documentsRequired": [
-          "Passport",
-          "Hotel booking or sponsor letter",
-          "Return flight ticket",
-          "Funds proof"
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
         ]
       }
     ]
@@ -88,16 +93,16 @@
     "country": "Mauritius",
     "visaTypes": [
       {
-        "type": "Visa-Free",
-        "visaValidity": "60 days",
-        "stayValidity": "60 days",
-        "processingTime": "On arrival",
-        "visaFees": "Free",
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
         "documentsRequired": [
-          "Passport",
-          "Confirmed return flight ticket",
-          "Hotel booking",
-          "Funds proof"
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
         ]
       }
     ]
@@ -106,15 +111,16 @@
     "country": "Fiji",
     "visaTypes": [
       {
-        "type": "Visa-Free",
-        "visaValidity": "120 days",
-        "stayValidity": "120 days",
-        "processingTime": "On arrival",
-        "visaFees": "Free",
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
         "documentsRequired": [
-          "Valid passport",
-          "Return/onward ticket",
-          "Funds for stay"
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
         ]
       }
     ]
@@ -124,14 +130,15 @@
     "visaTypes": [
       {
         "type": "Visa-Free",
-        "visaValidity": "6 months",
-        "stayValidity": "180 days",
-        "processingTime": "None",
-        "visaFees": "Free",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
         "documentsRequired": [
-          "Passport",
-          "Return/onward ticket",
-          "Travel purpose proof"
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
         ]
       }
     ]
@@ -141,14 +148,15 @@
     "visaTypes": [
       {
         "type": "Visa-Free",
-        "visaValidity": "90 days",
-        "stayValidity": "90 days",
-        "processingTime": "None",
-        "visaFees": "Free",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
         "documentsRequired": [
-          "Passport",
-          "Return flight",
-          "Accommodation proof"
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
         ]
       }
     ]
@@ -158,13 +166,15 @@
     "visaTypes": [
       {
         "type": "Visa-Free",
-        "visaValidity": "90 days",
-        "stayValidity": "90 days",
-        "processingTime": "None",
-        "visaFees": "Free",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
         "documentsRequired": [
-          "Passport",
-          "Return ticket"
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
         ]
       }
     ]
@@ -174,13 +184,15 @@
     "visaTypes": [
       {
         "type": "Visa-Free",
-        "visaValidity": "90 days",
-        "stayValidity": "90 days",
-        "processingTime": "None",
-        "visaFees": "Free",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
         "documentsRequired": [
-          "Passport",
-          "Purpose of travel proof"
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
         ]
       }
     ]
@@ -189,14 +201,16 @@
     "country": "Trinidad and Tobago",
     "visaTypes": [
       {
-        "type": "Visa-Free",
-        "visaValidity": "90 days",
-        "stayValidity": "90 days",
-        "processingTime": "None",
-        "visaFees": "Free",
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
         "documentsRequired": [
-          "Valid passport",
-          "Return ticket"
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
         ]
       }
     ]
@@ -205,792 +219,844 @@
     "country": "Ecuador",
     "visaTypes": [
       {
-        "type": "Visa-Free",
-        "visaValidity": "90 days",
-        "stayValidity": "90 days",
-        "processingTime": "None",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Passport",
-          "Return ticket",
-          "Hotel booking"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Bhutan (14)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "Unlimited",
-        "stayValidity": "No limit",
-        "processingTime": "None",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Valid Indian Passport or Voter ID card",
-          "Entry Permit from immigration office",
-          "Passport-size photo"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Nepal (15)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "Unlimited",
-        "stayValidity": "No limit",
-        "processingTime": "None",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Valid Indian Passport or Voter ID card"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Indonesia (16)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "30 days",
-        "stayValidity": "30 days",
-        "processingTime": "On arrival",
-        "visaFees": "Free",
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
         "documentsRequired": [
           "Valid Indian Passport",
-          "Return ticket",
-          "Sufficient funds"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Thailand (17)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free (Promo)",
-        "visaValidity": "Until 11 May 2025",
-        "stayValidity": "30 days",
-        "processingTime": "On arrival",
-        "visaFees": "Free (under promo)",
-        "documentsRequired": [
-          "Passport with 6 months validity",
-          "Return/onward ticket",
+          "Return/onward flight ticket",
           "Proof of accommodation",
-          "Funds proof"
+          "Sufficient financial means"
         ]
       }
     ]
   },
   {
-    "country": "Maldives (18)",
+    "country": "El Salvador",
     "visaTypes": [
       {
-        "type": "Visa-Free",
-        "visaValidity": "30 days",
-        "stayValidity": "30 days",
-        "processingTime": "On arrival",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Passport",
-          "Hotel booking or sponsor letter",
-          "Return flight ticket",
-          "Funds proof"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Mauritius (19)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "60 days",
-        "stayValidity": "60 days",
-        "processingTime": "On arrival",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Passport",
-          "Confirmed return flight ticket",
-          "Hotel booking",
-          "Funds proof"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Fiji (20)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "120 days",
-        "stayValidity": "120 days",
-        "processingTime": "On arrival",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Valid passport",
-          "Return/onward ticket",
-          "Funds for stay"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Jamaica (21)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "6 months",
-        "stayValidity": "180 days",
-        "processingTime": "None",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Passport",
-          "Return/onward ticket",
-          "Travel purpose proof"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Barbados (22)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "90 days",
-        "stayValidity": "90 days",
-        "processingTime": "None",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Passport",
-          "Return flight",
-          "Accommodation proof"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Haiti (23)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "90 days",
-        "stayValidity": "90 days",
-        "processingTime": "None",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Passport",
-          "Return ticket"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Senegal (24)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "90 days",
-        "stayValidity": "90 days",
-        "processingTime": "None",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Passport",
-          "Purpose of travel proof"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Trinidad and Tobago (25)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "90 days",
-        "stayValidity": "90 days",
-        "processingTime": "None",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Valid passport",
-          "Return ticket"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Ecuador (26)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "90 days",
-        "stayValidity": "90 days",
-        "processingTime": "None",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Passport",
-          "Return ticket",
-          "Hotel booking"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Bhutan (27)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "Unlimited",
-        "stayValidity": "No limit",
-        "processingTime": "None",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Valid Indian Passport or Voter ID card",
-          "Entry Permit from immigration office",
-          "Passport-size photo"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Nepal (28)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "Unlimited",
-        "stayValidity": "No limit",
-        "processingTime": "None",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Valid Indian Passport or Voter ID card"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Indonesia (29)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "30 days",
-        "stayValidity": "30 days",
-        "processingTime": "On arrival",
-        "visaFees": "Free",
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
         "documentsRequired": [
           "Valid Indian Passport",
-          "Return ticket",
-          "Sufficient funds"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Thailand (30)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free (Promo)",
-        "visaValidity": "Until 11 May 2025",
-        "stayValidity": "30 days",
-        "processingTime": "On arrival",
-        "visaFees": "Free (under promo)",
-        "documentsRequired": [
-          "Passport with 6 months validity",
-          "Return/onward ticket",
+          "Return/onward flight ticket",
           "Proof of accommodation",
-          "Funds proof"
+          "Sufficient financial means"
         ]
       }
     ]
   },
   {
-    "country": "Maldives (31)",
+    "country": "Micronesia",
     "visaTypes": [
       {
-        "type": "Visa-Free",
-        "visaValidity": "30 days",
-        "stayValidity": "30 days",
-        "processingTime": "On arrival",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Passport",
-          "Hotel booking or sponsor letter",
-          "Return flight ticket",
-          "Funds proof"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Mauritius (32)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "60 days",
-        "stayValidity": "60 days",
-        "processingTime": "On arrival",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Passport",
-          "Confirmed return flight ticket",
-          "Hotel booking",
-          "Funds proof"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Fiji (33)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "120 days",
-        "stayValidity": "120 days",
-        "processingTime": "On arrival",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Valid passport",
-          "Return/onward ticket",
-          "Funds for stay"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Jamaica (34)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "6 months",
-        "stayValidity": "180 days",
-        "processingTime": "None",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Passport",
-          "Return/onward ticket",
-          "Travel purpose proof"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Barbados (35)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "90 days",
-        "stayValidity": "90 days",
-        "processingTime": "None",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Passport",
-          "Return flight",
-          "Accommodation proof"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Haiti (36)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "90 days",
-        "stayValidity": "90 days",
-        "processingTime": "None",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Passport",
-          "Return ticket"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Senegal (37)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "90 days",
-        "stayValidity": "90 days",
-        "processingTime": "None",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Passport",
-          "Purpose of travel proof"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Trinidad and Tobago (38)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "90 days",
-        "stayValidity": "90 days",
-        "processingTime": "None",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Valid passport",
-          "Return ticket"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Ecuador (39)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "90 days",
-        "stayValidity": "90 days",
-        "processingTime": "None",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Passport",
-          "Return ticket",
-          "Hotel booking"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Bhutan (40)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "Unlimited",
-        "stayValidity": "No limit",
-        "processingTime": "None",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Valid Indian Passport or Voter ID card",
-          "Entry Permit from immigration office",
-          "Passport-size photo"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Nepal (41)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "Unlimited",
-        "stayValidity": "No limit",
-        "processingTime": "None",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Valid Indian Passport or Voter ID card"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Indonesia (42)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "30 days",
-        "stayValidity": "30 days",
-        "processingTime": "On arrival",
-        "visaFees": "Free",
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
         "documentsRequired": [
           "Valid Indian Passport",
-          "Return ticket",
-          "Sufficient funds"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Thailand (43)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free (Promo)",
-        "visaValidity": "Until 11 May 2025",
-        "stayValidity": "30 days",
-        "processingTime": "On arrival",
-        "visaFees": "Free (under promo)",
-        "documentsRequired": [
-          "Passport with 6 months validity",
-          "Return/onward ticket",
+          "Return/onward flight ticket",
           "Proof of accommodation",
-          "Funds proof"
+          "Sufficient financial means"
         ]
       }
     ]
   },
   {
-    "country": "Maldives (44)",
+    "country": "Saint Kitts and Nevis",
     "visaTypes": [
       {
-        "type": "Visa-Free",
-        "visaValidity": "30 days",
-        "stayValidity": "30 days",
-        "processingTime": "On arrival",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Passport",
-          "Hotel booking or sponsor letter",
-          "Return flight ticket",
-          "Funds proof"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Mauritius (45)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "60 days",
-        "stayValidity": "60 days",
-        "processingTime": "On arrival",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Passport",
-          "Confirmed return flight ticket",
-          "Hotel booking",
-          "Funds proof"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Fiji (46)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "120 days",
-        "stayValidity": "120 days",
-        "processingTime": "On arrival",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Valid passport",
-          "Return/onward ticket",
-          "Funds for stay"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Jamaica (47)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "6 months",
-        "stayValidity": "180 days",
-        "processingTime": "None",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Passport",
-          "Return/onward ticket",
-          "Travel purpose proof"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Barbados (48)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "90 days",
-        "stayValidity": "90 days",
-        "processingTime": "None",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Passport",
-          "Return flight",
-          "Accommodation proof"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Haiti (49)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "90 days",
-        "stayValidity": "90 days",
-        "processingTime": "None",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Passport",
-          "Return ticket"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Senegal (50)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "90 days",
-        "stayValidity": "90 days",
-        "processingTime": "None",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Passport",
-          "Purpose of travel proof"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Trinidad and Tobago (51)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "90 days",
-        "stayValidity": "90 days",
-        "processingTime": "None",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Valid passport",
-          "Return ticket"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Ecuador (52)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "90 days",
-        "stayValidity": "90 days",
-        "processingTime": "None",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Passport",
-          "Return ticket",
-          "Hotel booking"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Bhutan (53)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "Unlimited",
-        "stayValidity": "No limit",
-        "processingTime": "None",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Valid Indian Passport or Voter ID card",
-          "Entry Permit from immigration office",
-          "Passport-size photo"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Nepal (54)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "Unlimited",
-        "stayValidity": "No limit",
-        "processingTime": "None",
-        "visaFees": "Free",
-        "documentsRequired": [
-          "Valid Indian Passport or Voter ID card"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Indonesia (55)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free",
-        "visaValidity": "30 days",
-        "stayValidity": "30 days",
-        "processingTime": "On arrival",
-        "visaFees": "Free",
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
         "documentsRequired": [
           "Valid Indian Passport",
-          "Return ticket",
-          "Sufficient funds"
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Thailand (56)",
-    "visaTypes": [
-      {
-        "type": "Visa-Free (Promo)",
-        "visaValidity": "Until 11 May 2025",
-        "stayValidity": "30 days",
-        "processingTime": "On arrival",
-        "visaFees": "Free (under promo)",
-        "documentsRequired": [
-          "Passport with 6 months validity",
-          "Return/onward ticket",
+          "Return/onward flight ticket",
           "Proof of accommodation",
-          "Funds proof"
+          "Sufficient financial means"
         ]
       }
     ]
   },
   {
-    "country": "Maldives (57)",
+    "country": "Vanuatu",
     "visaTypes": [
       {
-        "type": "Visa-Free",
-        "visaValidity": "30 days",
-        "stayValidity": "30 days",
-        "processingTime": "On arrival",
-        "visaFees": "Free",
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
         "documentsRequired": [
-          "Passport",
-          "Hotel booking or sponsor letter",
-          "Return flight ticket",
-          "Funds proof"
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
         ]
       }
     ]
   },
   {
-    "country": "Mauritius (58)",
+    "country": "Grenada",
     "visaTypes": [
       {
-        "type": "Visa-Free",
-        "visaValidity": "60 days",
-        "stayValidity": "60 days",
-        "processingTime": "On arrival",
-        "visaFees": "Free",
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
         "documentsRequired": [
-          "Passport",
-          "Confirmed return flight ticket",
-          "Hotel booking",
-          "Funds proof"
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
         ]
       }
     ]
   },
   {
-    "country": "Fiji (59)",
+    "country": "Dominica",
     "visaTypes": [
       {
-        "type": "Visa-Free",
-        "visaValidity": "120 days",
-        "stayValidity": "120 days",
-        "processingTime": "On arrival",
-        "visaFees": "Free",
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
         "documentsRequired": [
-          "Valid passport",
-          "Return/onward ticket",
-          "Funds for stay"
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Saint Lucia",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Cook Islands",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Niue",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Montserrat",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Seychelles",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Kazakhstan",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Qatar",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Oman",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Jordan",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Iran",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Sri Lanka",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Laos",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Myanmar",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Cambodia",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Vietnam",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Bolivia",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Rwanda",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Zimbabwe",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Tanzania",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Kenya",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Uganda",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Ethiopia",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Zambia",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Palau",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Samoa",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Tuvalu",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Marshall Islands",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Guinea-Bissau",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Comoros",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Togo",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Mozambique",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Madagascar",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Malawi",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Angola",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Burundi",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Gabon",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Sierra Leone",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "visaTypes": [
+      {
+        "type": "Visa on Arrival",
+        "visaValidity": "30 to 90 days",
+        "stayValidity": "Up to 90 days",
+        "processingTime": "None or On Arrival",
+        "visaFees": "Free or Nominal Fee",
+        "documentsRequired": [
+          "Valid Indian Passport",
+          "Return/onward flight ticket",
+          "Proof of accommodation",
+          "Sufficient financial means"
         ]
       }
     ]
