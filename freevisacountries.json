@@ -54,6 +54,25 @@
     ]
   },
   {
+    "country": "Malaysia",
+    "visaTypes": [
+      {
+        "type": "Visa-Free Entry with MDAC",
+        "visaValidity": "30 days",
+        "stayValidity": "Up to 30 days",
+        "processingTime": "No visa required, MDAC to be submitted 3 days before arrival",
+        "visaFees": "Free",
+        "documentsRequired": [
+          "Valid Indian Passport (at least 6 months validity)",
+          "Completed Malaysia Digital Arrival Card (MDAC) submitted online within 3 days prior to arrival",
+          "Return or onward flight ticket",
+          "Proof of accommodation in Malaysia",
+          "Sufficient funds for the stay"
+        ]
+      }
+    ]
+  },
+  {
     "country": "Thailand",
     "visaTypes": [
       {
