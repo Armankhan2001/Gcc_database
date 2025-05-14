@@ -4,16 +4,33 @@
     "visaTypes": [
       {
         "type": "Tourist Visa",
-        "processingTime": "2-3 Days",
+        "processingTime": "2-3 Working Days",
         "stayValidity": "30 Days",
         "visaValidity": "60 Days",
-        "visaFees": "AED 350",
+        "visaFees": "AED 350 (~₹7,800)",
+        "documentsRequired": [
+          "Passport (front and back)",
+          "1 Recent Photograph (white background)",
+          "Confirmed Return Flight Ticket",
+          "Hotel Booking Confirmation",
+          "Pan Card Copy"
+        ],
+        "applyProcess": "Visa is applied via UAE sponsor or travel agency. Submit documents and pay online."
+      },
+      {
+        "type": "Business Visa",
+        "processingTime": "3-5 Working Days",
+        "stayValidity": "14-30 Days",
+        "visaValidity": "60 Days",
+        "visaFees": "AED 600 (~₹13,500)",
         "documentsRequired": [
           "Passport Copy",
-          "Photo",
-          "Return Ticket",
-          "Hotel Booking"
-        ]
+          "Business Invitation Letter from UAE Company",
+          "Photograph",
+          "Pan Card",
+          "Travel Insurance"
+        ],
+        "applyProcess": "Business visa processed through registered agents with UAE invitation letter."
       }
     ]
   },
@@ -21,17 +38,95 @@
     "country": "Saudi Arabia",
     "visaTypes": [
       {
-        "type": "Business Visa",
-        "processingTime": "3-5 Days",
-        "stayValidity": "90 Days",
-        "visaValidity": "180 Days",
-        "visaFees": "SAR 500",
+        "type": "Tourist E-Visa",
+        "processingTime": "1-2 Days (E-Visa)",
+        "stayValidity": "Up to 90 Days",
+        "visaValidity": "1 Year Multiple Entry",
+        "visaFees": "SAR 535 (~₹11,800 incl. insurance)",
+        "documentsRequired": [
+          "Passport Copy (6+ months validity)",
+          "Passport Size Photo",
+          "Travel Insurance (auto-included)",
+          "Credit Card for Online Payment"
+        ],
+        "applyProcess": "Apply on official portal (https://visa.visitsaudi.com/) with online form and payment."
+      }
+    ]
+  },
+  {
+    "country": "Qatar",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa (Online)",
+        "processingTime": "3-4 Working Days",
+        "stayValidity": "30 Days",
+        "visaValidity": "Single Entry",
+        "visaFees": "QAR 100 (~₹2,300)",
         "documentsRequired": [
           "Passport Copy",
-          "Invitation Letter",
-          "Company Letter",
-          "Photo"
-        ]
+          "Photograph",
+          "Hotel Booking",
+          "Return Ticket",
+          "Travel Insurance"
+        ],
+        "applyProcess": "Apply via Visit Qatar Portal (https://www.visitqatar.qa/) with hotel booking proof."
+      }
+    ]
+  },
+  {
+    "country": "Kuwait",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "2-3 Days",
+        "stayValidity": "30 Days",
+        "visaValidity": "90 Days",
+        "visaFees": "KWD 3 (~₹800)",
+        "documentsRequired": [
+          "Passport Copy",
+          "Photograph",
+          "Confirmed Hotel Booking",
+          "Return Ticket"
+        ],
+        "applyProcess": "E-visa available at https://evisa.moi.gov.kw; sponsor may be required in some cases."
+      }
+    ]
+  },
+  {
+    "country": "Bahrain",
+    "visaTypes": [
+      {
+        "type": "Tourist E-Visa",
+        "processingTime": "3-5 Working Days",
+        "stayValidity": "Up to 14 Days",
+        "visaValidity": "30 Days",
+        "visaFees": "BHD 9 (~₹2,000)",
+        "documentsRequired": [
+          "Passport Copy",
+          "Photograph",
+          "Hotel Booking",
+          "Return Flight Ticket"
+        ],
+        "applyProcess": "Apply online at https://www.evisa.gov.bh/ with required documents and payment."
+      }
+    ]
+  },
+  {
+    "country": "Oman",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa (e-Visa)",
+        "processingTime": "1-2 Days",
+        "stayValidity": "30 Days",
+        "visaValidity": "Single Entry",
+        "visaFees": "OMR 20 (~₹4,200)",
+        "documentsRequired": [
+          "Passport Copy",
+          "Passport-size Photo",
+          "Hotel Booking or Invitation",
+          "Return Flight Ticket"
+        ],
+        "applyProcess": "Apply at https://evisa.rop.gov.om with online form and fee payment."
       }
     ]
   }
