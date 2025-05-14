@@ -1,0 +1,38 @@
+[
+  {
+    "country": "United Arab Emirates",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "2-3 Days",
+        "stayValidity": "30 Days",
+        "visaValidity": "60 Days",
+        "visaFees": "AED 350",
+        "documentsRequired": [
+          "Passport Copy",
+          "Photo",
+          "Return Ticket",
+          "Hotel Booking"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "visaTypes": [
+      {
+        "type": "Business Visa",
+        "processingTime": "3-5 Days",
+        "stayValidity": "90 Days",
+        "visaValidity": "180 Days",
+        "visaFees": "SAR 500",
+        "documentsRequired": [
+          "Passport Copy",
+          "Invitation Letter",
+          "Company Letter",
+          "Photo"
+        ]
+      }
+    ]
+  }
+]
