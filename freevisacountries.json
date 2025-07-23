@@ -1079,5 +1079,22 @@
         ]
       }
     ]
+  },
+  {
+    "country": "Bangladesh",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "visaValidity": "90 days",
+        "stayValidity": "30 days",
+        "processingTime": "5 to 10 working days",
+        "visaFees": "0",
+        "documentsRequired": [
+          "Passport 6 month valid + all old passports",
+          "45mm × 35mm Digital Photo in JPEG format, max size 300kb",
+          "Address in Bangladesh or hotel confirmation"
+        ]
+      }
+    ]
   }
 ]
